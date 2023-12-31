@@ -1,1 +1,1 @@
-exeはReleaseにあります。
+exeはReleasesにあります。
